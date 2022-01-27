@@ -1,0 +1,36 @@
+@media screen and (max-width:768px){
+
+    .nav{
+        height: auto;
+        width: auto;
+        flex-wrap: wrap;
+      
+    }
+    
+     .items{margin:10px;}
+      .covidMeasures{margin:10px;}
+      .logout{margin:10px;}
+       .contactUs{margin:10px;}
+
+       .head4In
+       {height:auto;
+        width: auto;
+        text-align: center;
+        margin: 0;}
+
+    #sign{
+        height: auto;
+        width: auto;
+        text-align: left;
+        margin: 30px;
+    }
+
+    #sign p{
+        text-align: center;
+    }
+    h2.signupHead
+    {
+        margin-left:3%;
+    }
+
+    }
